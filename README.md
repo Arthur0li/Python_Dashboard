@@ -20,7 +20,7 @@ pip install -r requirements.txt
 ### ▶️ How to Run
 
 ```bash
-streamlit run dashboard.py
+streamlit run main.py
 ```
 
 ---
@@ -47,5 +47,5 @@ pip install -r requirements.txt
 ## ▶️ Como Executar
 
 ```bash
-streamlit run dashboard.py
+streamlit run main.py
 ```
